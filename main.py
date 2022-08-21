@@ -65,4 +65,4 @@ if counter_user > counter_pc:
 elif counter_pc > counter_user:
     print("Winner  **PC** ")
 else:
-    print("Equal Score")aaa
+    print("Equal Score")
